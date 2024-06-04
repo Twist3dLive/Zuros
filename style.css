@@ -1,0 +1,35 @@
+/* Site Wide */
+body {
+    background-color: black;
+    color: #FFB000;
+    font-family: monospace;
+    text-shadow: 0 0 5px #FFB000;
+}
+
+/* index.html */
+.main_Header {
+    border: solid;
+    color: #FFB000;
+    text-align: center;
+    pre {
+      font-size: 1vw;
+    }
+}
+.world_Map {
+    text-align: center;
+    color: #FFB000;
+    border: solid;
+    padding: 8px;
+}
+
+/* contents.html */
+.contents_Header {
+    border: solid;
+    color: #FFB000;
+    text-align: center;
+    pre {
+        font-size: 1vw;
+    }
+}
+
+/* calendar.html */
