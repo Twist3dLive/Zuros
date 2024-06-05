@@ -1,4 +1,30 @@
 /* Site Wide */
+.main_Navigation {
+    padding: 8px;
+    font-size: 1vw;
+    text-align: center;
+    a:link {
+        color: #FFB000;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:visited {
+        color: #FFB000;
+        background-color: transparent;
+        text-decoration: none;  
+    }
+    a:hover {
+        color: #FFB000;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+    a:active {
+        color: #FFB000;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+}
+
 body {
     background-color: black;
     color: #FFB000;
@@ -33,4 +59,32 @@ body {
     }
 }
 
+/* lore */
+.lore_Header {
+    border: solid;
+    color: #FFB000;
+    text-align: center;
+    pre {
+      font-size: 1vw;
+    }
+}
+
 /* calendar.html */
+.calendar {
+    border: solid;
+    color: #FFB000;
+    padding: 8px;
+    table {
+        border: 1px solid #FFB000;
+        width: 100%;
+    }
+
+    th, td {
+        width: 12.5%;
+        border: 1px solid black;
+    }
+
+    h3 {
+        text-align: center;
+    }
+}
