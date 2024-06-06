@@ -53,6 +53,46 @@ hr {
     font-size: 1vw;
 }
 
+/* Contents */
+.contents_Navigation {
+    font-size: large;
+    a{
+        font-size: larger;
+    }
+    a:link {
+        color: #FFB000;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:visited {
+        color: #FFB000;
+        background-color: transparent;
+        text-decoration: none;  
+    }
+    a:hover {
+        color: #FFB000;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+    a:active {
+        color: #FFB000;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+    table {
+        border: 1px solid #FFB000;
+        padding: 8px;
+        color: #FFB000;
+        padding: 8px;
+        width: 100%;
+    }
+    td {
+        width: auto;
+        text-align: center;
+        border: 1px solid #FFB000;
+    }
+}
+
 /* lore */
 .lore {
     font-size: large;
