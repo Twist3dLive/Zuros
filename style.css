@@ -24,21 +24,16 @@
         text-decoration: underline;
     }
 }
-
 body {
     background-color: black;
     color: #FFB000;
     font-family: monospace;
-    /* text-shadow: 0 0 5px #FFB000; */
 }
-
 hr {
     color: #FFB000;
     width: 100%;
 }
-
-/* index.html */
-.main_Header {
+.Headers {
     border: solid;
     color: #FFB000;
     text-align: center;
@@ -55,46 +50,12 @@ hr {
     font-size: 1vw;
 }
 
-/* contents.html */
-.contents_Header {
-    border: solid;
-    color: #FFB000;
-    text-align: center;
-    font-size: large;
-    pre {
-        font-size: 1vw;
-    }
-}
-
 /* lore */
-.lore_Header {
-    border: solid;
-    color: #FFB000;
-    text-align: center;
-    font-size: large;
-    pre {
-      font-size: 1vw;
-    }
-}
-
 .lore {
     font-size: large;
 }
 
-p {
-    text-indent: 24px;
-}
-
 /* calendar.html */
-.calendar_Header {
-    border: solid;
-    color: #FFB000;
-    text-align: center;
-    font-size: large;
-    pre {
-        font-size: 1vw;
-    }
-}
 .calendar {
     border: solid;
     color: #FFB000;
@@ -123,18 +84,8 @@ p {
     }
 }
 
-/* settlments */
-.settlements_Header {
-    border: solid;
-    color: #FFB000;
-    text-align: center;
-    font-size: large;
-    pre {
-        font-size: 1vw;
-    }
-}
-
-.settelments {
+/* settlements */
+.settlements {
     border: solid;
     color: #FFB000;
     font-size: large;
