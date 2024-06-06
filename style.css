@@ -41,6 +41,9 @@ hr {
     pre {
       font-size: 1vw;
     }
+    p {
+        font-size: large;
+    }
 }
 .world_Map {
     text-align: center;
@@ -53,6 +56,7 @@ hr {
 /* lore */
 .lore {
     font-size: large;
+    text-indent: 24px;
 }
 
 /* calendar.html */
@@ -90,8 +94,8 @@ hr {
     color: #FFB000;
     font-size: large;
     padding: 8px;
-    hr {
+    /* hr {
         color: #FFB000;
         width: 100%;
-    }
+    } */
 }
