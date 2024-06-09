@@ -79,18 +79,6 @@ hr {
         background-color: transparent;
         text-decoration: underline;
     }
-    table {
-        border: 1px solid #FFB000;
-        padding: 8px;
-        color: #FFB000;
-        padding: 8px;
-        width: 100%;
-    }
-    td {
-        width: auto;
-        text-align: center;
-        border: 1px solid #FFB000;
-    }
 }
 
 /* lore */
